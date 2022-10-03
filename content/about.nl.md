@@ -1,25 +1,73 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+title = "Over Mij"
+description = "Daan, alles wat je moet weten"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.
+Een computernerd, een techie of een gadget-freak. Dat is hoe de mensen om mij
+heen mij zouden beschrijven. Al van jongs af aan heb ik een passie voor alles met een
+computerchip. Op de basisschool werd ik altijd uit de klas getrokken om ergens
+problemen met een printer of een digibord te verhelpen. En daarin is niks veranderd.
+Of ik nu een schietspel speel, een Arduino aan het programmeren ben voor een simracing
+handrem of nutteloze feitjes aan opzoeken ben, je kunt me nog steeds vaak
+achter een computerscherm vinden.
 
-O Hugo faz o uso de vários projetos de código aberto incluíndo:
+## Mijn Werkervaring
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+#### - Eigenaar, Digidaan IT Services | Feb 2021 – Heden
+   Februari 2021 ben ik mijn eigen onderneming gestart. Digidaan is mijn
+    eenmanszaak waarmee ik verschillende projecten uitgevoerd heb.
+    Digidaan levert verschillende IT services zoals: Ondersteuning, Beheer
+    en Ontwikkeling.
+#### - Stagiaire, Summa College | Feb 2021 – Juli 2021
+- Gewerkt aan een klimaatbeheersysteem voor summa
+collegegebouwen
+- Authenticatie systeem ontwikkeld voor rollen en permissies voor
+een webapplicatie
+- Dashboard voor gebruiker beheer ontwikkeld in React
 
-O Hugo é ideal para blogs, sites corporativos, protfólio criativos, revistas online, aplicações de página única ou até sites com milhares de páginas.
+#### - Stagiaire, ASML Netherlands | Aug 2019 – Feb 2020
+- SharePoint intranet onderhouden
+- Nieuwe lay-out intranet voor ‘Development & Engineering’
+ontworpen (Bestandsstructuur, Rechten hiërarchie en Vormgeving)
+- In C# samen met stagegenoot een WPF-interface ontwikkeld voor
+het uitlezen, sorteren en filtreren van serial poort data. Dit project
+maakte het makkelijker voor de engineers om foute data op te
+sporen
 
-O Hugo é para pessoas que querem cuidar do seu próprio site sem se preocupar com a configuração ambientes complicados, dependências e bancos de dados.
+### On-site Tech Support, Studentaanhuis | Okt. 2018 – Juli 2021
+ - Hulp aan huis met betrekking tot ICT gerelateerde problemen.
 
-Sites contru;idos com Hugo são extremamente rápidos, seguros e podem ser implantados em qualquer lugar, incluíndo AWS, GitHub Pages, Heroku, Netlify e outros provedores de hospedagem.
+# Mijn Opleidingen
+#### - HBO-ICT Deeltijd, Fontys College | Sept 2022 – Juli 2025
+- Richting: ICT & Software Engineering
 
-Saiba mais e contribua em [GitHub](https://github.com/gohugoio).
+#### - HBO-ICT Voltijd, Fontys College | Sept 2021 – Juni 2022
+
+#### - MBO 4, Software Development | Sept 2018 – Juli 2021
+- Programmeren in verschillende frameworks binnen het .net
+framework zoals: ASP.net Core, Xamarin, WPF en UWP.
+- Het ontwerpen van databases en datastructuren
+- Web development met zowel front-end als backend development in
+talen en frameworks zoals Javascript, PHP/Laravel, HTML, CSS,
+Bootstrap, Tailwind CSS en diverse andere technieken.
+- Softwaresystemen ontwerpen door middel van UML Diagrammen.
+- Versiebeheer en Agile Collaboration met gebruik van technieken
+zoals Git en Azure DevOps.
+
+#### - Havo, van Maerlantlyceum | Aug. 2014 – Juli 2018
+
+## Tech Skills
+- C#
+- ASP.NET Core
+- WPF/UWP
+- Entity Framework
+- HTML5
+- CSS3
+- Tailwind-CSS3
+- Javascript
+- PHP
+- Linux
+- Bootstrap 

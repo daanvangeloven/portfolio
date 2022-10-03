@@ -155,7 +155,7 @@ description = "Sítio pessoal de João Ninguém"
 keywords = "blog,desenvolvedor,pessoal"
 
 [[languages.nl.menu.main]]
-name = "Over"
+name = "Over Mij"
 weight = 1
 url = "about/"
 
